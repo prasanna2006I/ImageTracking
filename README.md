@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-28 at 22 03 14_e6f30351](https://github.com/user-attachments/assets/eea9e3a8-cc88-489b-a7ba-d5f19cd7564b)# Marker based WebAR
+# Marker based WebAR
 
 ## AIM:
 To create a marker-based WebAR experience using MindAR and Three.js, which detects an image marker and overlays an animated drummer raccoon model that plays background music when the marker is visible.
